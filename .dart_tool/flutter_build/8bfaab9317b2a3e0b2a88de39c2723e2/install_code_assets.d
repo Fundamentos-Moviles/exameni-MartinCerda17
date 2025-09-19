@@ -1,0 +1,1 @@
+ /Users/martin/dev/universidad/apps_mob/exameni-MartinCerda17/.dart_tool/flutter_build/8bfaab9317b2a3e0b2a88de39c2723e2/native_assets.json: 
